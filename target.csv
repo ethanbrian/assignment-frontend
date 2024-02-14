@@ -1,0 +1,4 @@
+ID,Name,Date,AvailableBalance, Charge, BookBalance
+001,John Doe,2023-01-01,100.00,15.00,115.00
+002,Jane Smith,2023-01-02,200.50,20.00,220.00
+003,Robert Brown,2023-01-03,300.75,22.00,312.75
